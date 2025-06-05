@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\_123123123.Form2.resources
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.csproj.GenerateResource.cache
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.AssemblyInfo.cs
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\123123123\123123123\bin\Debug\net8.0-windows\123123123.exe
+C:\Users\user\source\repos\123123123\123123123\bin\Debug\net8.0-windows\123123123.deps.json
+C:\Users\user\source\repos\123123123\123123123\bin\Debug\net8.0-windows\123123123.runtimeconfig.json
+C:\Users\user\source\repos\123123123\123123123\bin\Debug\net8.0-windows\123123123.dll
+C:\Users\user\source\repos\123123123\123123123\bin\Debug\net8.0-windows\123123123.pdb
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.dll
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\refint\123123123.dll
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.pdb
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\123123123.genruntimeconfig.cache
+C:\Users\user\source\repos\123123123\123123123\obj\Debug\net8.0-windows\ref\123123123.dll
